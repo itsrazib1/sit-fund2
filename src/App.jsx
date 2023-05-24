@@ -19,12 +19,12 @@ const App = () => {
       { name: "সাদিয়া", deposit: 36.25 },
       { name: "মিথিলা", deposit: -1.75 },
       { name: "নাহিদা", deposit: -6.25 },
-      { name: "উয়মা", deposit: 3.75 },
+      { name: "উযমা", deposit: 3.75 },
       { name: "ঐশী", deposit: 2.0 },
       { name: "সবুজ", deposit: 6.25 },
       { name: "আকাশ", deposit: -8.0 },
       { name: "তারেক", deposit: 2.0 },
-      { name: "অভিষেখ", deposit: -8.0 },
+      { name: "অভিষেক ", deposit: -8.0 },
     ];
   });
 
